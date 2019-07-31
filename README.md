@@ -1,2 +1,2 @@
 # Advanced-Layout-Arrangment
-A template for arrangment android xml layouts
+A template for arrangement android xml layouts
